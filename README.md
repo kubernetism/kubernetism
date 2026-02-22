@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 - Python, Docker, Kubernetes, Open AI Agents SDK, (CrewAI, LangChain, LangGraph)
 
 ### About me:
+- 🧑🏻‍🏫 Lecturer Computer Science - Capital Degree College Peshawar, KPK, Pakistan.
 - 😄 Fun fact: I was a Java developer before, worked in KP IT Park
 - 🔭 I’m looking to collaborate on commercial projects and startups
 - 📫 How to reach me: [Email](programmersafdar@live.com)
